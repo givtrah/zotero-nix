@@ -1,5 +1,7 @@
 # Zotero on Nix
 
+Cloned as a backup by givtrah since nix os zotero maintainers apparently can't figure out how to do aarch64, sigh.
+
 This is a best effort to package Zotero to [Nixpkgs](https://github.com/NixOS/nixpkgs/) from the [source code](https://github.com/zotero/zotero/).
 
 Zotero officially runs on ```x86_64-linux```, though this project makes it available for ```aarch64-linux```.
